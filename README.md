@@ -18,5 +18,5 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/anuragKumarCB/Learning-Python-From-Scratch--Code-Only.git
+git clone git@github.com:anuragKumarCB/python-daily-challenges.git
 cd python-daily-challenges
